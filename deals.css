@@ -1,0 +1,17 @@
+
+td,th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    height: 30vh;
+}
+#trilogia{
+    background: rgb(191, 191, 245);
+    color: blue;
+    
+
+}
+
